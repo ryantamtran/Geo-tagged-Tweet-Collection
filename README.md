@@ -7,11 +7,24 @@ I decided to make comparisons with these three specific cities because I wanted 
 
 Looking at these word clouds, we can see that they all include the words homeless and people but that's where the similarities starts to end and each word clouds starts having more different common words being used. In Richmond's word cloud, you can see words such as "Food", "Home", "Billions", "Dollars", and "Problem" which might be because most people from that place are tweeting about maybe how they can focus more on possibily using the government's billions of dollars to provide food and a home for the homelessness problem. This is very different when looking at Seattke's word cloud which includes the words "Death", "Died", "County", "Shelter", and "Need" possibly because people are more worried about homeless people dying in this harsh winter condiiton and that the county needs more shelters. The last word cloud, Los Angeles, has words such as "Drug", "Money", and "Shelter" which could possibly be due to people thinking that there's a drug problem out in the streets and not enough money for shelters.
 
-4. compare the word clouds and discuss the difference or similarity among the word clouds (5 PTS)
-5. what might be the possible reasons for the patterns you observed (5 PTS)
-6. how your research could be improved in the future (5 PTS)
-7. anything you find from the map or data that is different from your expectation before the exercise, or anything that stands out to you (5 PTS)
+This research definitely can be improved in the future by looking at more different time periods of the topic "Homelessness" and somehow try to make sense of the situation of specific words. For example, the word "Death" could be due to different situations such as people tweeting about them worrying over homeless people dying or there can even be tweets of people worrying that they'll die because a homeless person might attack them due to bad stigma towards homeless people. 
 
-Export the two or more word clouds to the repository and then insert them to the readme.md. (5 PTS)
+> *Los Angeles, California Word Cloud*
+![LA wordcloud](https://raw.githubusercontent.com/ryantamtran/Geo-tagged-Tweet-Collection/main/img/wordcloud-1.png)
 
-The readme.md also needs to include a url to download the result spreadsheets (csv file) of the collected data (5 PTS).
+> *Seattle, Washington Word Cloud*
+![Seattle wordcloud](https://raw.githubusercontent.com/ryantamtran/Geo-tagged-Tweet-Collection/main/img/wordcloud-2.png)
+
+> *Richmond, Virginia Word Cloud*
+![Richmond wordcloud](https://raw.githubusercontent.com/ryantamtran/Geo-tagged-Tweet-Collection/main/img/wordcloud-3.png)
+
+### CSV file download
+[Los Angeles] 
+
+[Seattle] 
+
+[Richmond] 
+
+[Los Angeles]: https://drive.google.com/file/d/1iUXoZyq5zjAx22NzpHXrZyDCDWvWReyn/view?usp=sharing
+[Seattle]: https://drive.google.com/file/d/1qO8UCAA5eFzb9jAHOlTqPYvRr6_drPBi/view?usp=sharing
+[Richmond]: https://drive.google.com/file/d/16inq6O3Rr896obzR0V2q5DvXvb10rfXy/view?usp=sharing
