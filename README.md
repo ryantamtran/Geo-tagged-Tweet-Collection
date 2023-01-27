@@ -10,13 +10,13 @@ Looking at these word clouds, we can see that they all include the words homeles
 This research definitely can be improved in the future by looking at more different time periods of the topic "Homelessness" and somehow try to make sense of the situation of specific words. For example, the word "Death" could be due to different situations such as people tweeting about them worrying over homeless people dying or there can even be tweets of people worrying that they'll die because a homeless person might attack them due to bad stigma towards homeless people. 
 
 > *Los Angeles, California Word Cloud*
-![LA wordcloud](https://raw.githubusercontent.com/ryantamtran/Geo-tagged-Tweet-Collection/main/img/wordcloud-1.png)
+![LA wordcloud](https://raw.githubusercontent.com/ryantamtran/Geo-tagged-Tweet-Collection/main/img/wordart-1.png)
 
 > *Seattle, Washington Word Cloud*
-![Seattle wordcloud](https://raw.githubusercontent.com/ryantamtran/Geo-tagged-Tweet-Collection/main/img/wordcloud-2.png)
+![Seattle wordcloud](https://raw.githubusercontent.com/ryantamtran/Geo-tagged-Tweet-Collection/main/img/wordart-2.png)
 
 > *Richmond, Virginia Word Cloud*
-![Richmond wordcloud](https://raw.githubusercontent.com/ryantamtran/Geo-tagged-Tweet-Collection/main/img/wordcloud-3.png)
+![Richmond wordcloud](https://raw.githubusercontent.com/ryantamtran/Geo-tagged-Tweet-Collection/main/img/wordart-3.png)
 
 ### CSV file download
 [Los Angeles] 
