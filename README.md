@@ -9,6 +9,8 @@ Looking at these word clouds, we can see that all 3 word clouds share some simil
 
 This research definitely can be improved in the future by looking at more different time periods of the topic "Homelessness" and somehow try to make sense of the situation of specific words. For example, the word "Death" could be due to different situations such as people tweeting about them worrying over homeless people dying or there can even be tweets of people worrying that they'll die because a homeless person might attack them due to possibly a bad stigma towards homeless people. 
 
+Before doing this lab assignment, I did not expect these cities to have so much in common such as having the same words such as drugs and POTUS. What I expected most was people were going to blame their local governemnt for the crisis such as Los Angeles biggest word being "MayorOfLA" but I didn't see that from Richmond's word cloud at all while Seattle had a "MayorOfSeattle" word but it was extremely tiny compared to Los Angeles. It seems like drugs and the President are a huge conversation in this topic of homelessness and although I don't know the specifics, I can only assume that they're blaming them for the homelessness crisis. 
+
 > *Los Angeles, California Word Cloud*
 ![LA wordcloud](https://raw.githubusercontent.com/ryantamtran/Geo-tagged-Tweet-Collection/main/img/wordart-1.png)
 
